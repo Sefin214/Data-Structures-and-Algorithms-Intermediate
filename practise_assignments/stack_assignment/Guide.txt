@@ -1,8 +1,12 @@
 Stack Assignment
 
-Write a program to implement a stack using an array with the following operations:
-1> push()
-2> pop()
-3> peek()
-4> isEmpty()
-5> isFull()
+1)  Write a program to implement a stack using an array with the following operations:
+	1> push()
+	2> pop()
+	3> peek()
+	4> isEmpty()
+	5> isFull()
+
+2)  Implement queues using Arrays
+	
+3) 	Implement circular queue using Arrays
