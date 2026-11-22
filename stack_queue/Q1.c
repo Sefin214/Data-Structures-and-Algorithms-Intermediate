@@ -25,7 +25,7 @@ int isFull()
 void push(){
 	int value = 0;
 	if(isFull()){
-		printf("Stack Ovberflow!\n");
+		printf("Stack Overflow!\n");
 	}
 	else{
 		printf("Enter the value to push\n");
@@ -97,5 +97,5 @@ int main(){
 						break;
 		}
 	}
-		return 0;
+	return 0;
 }
