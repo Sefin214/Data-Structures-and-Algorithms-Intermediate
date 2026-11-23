@@ -23,7 +23,7 @@ int main(){
             f = 1;
             break;
         }
-        else if(key>mid){
+        else if(key>arr[mid]){
             low = mid+1;
         }
         else{
